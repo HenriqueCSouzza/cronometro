@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import Iframe from 'react-iframe'
 import {
   Button,
   ButtonGroup,
@@ -108,11 +107,9 @@ function MyTimer() {
 }
 function App() {
   return (
-    <span className="App">
-      <div className="clock-container">
-        <MyTimer />
-      </div>
-    </span>
+    <div className="clock-container">
+      <MyTimer />
+    </div>
   )
 }
 
