@@ -112,18 +112,6 @@ function App() {
       <div className="clock-container">
         <MyTimer />
       </div>
-      <div>
-        <Iframe
-          url={`https://jeopardylabs.com/edit/zaga-7`}
-          width="100%"
-          height="100%"
-          id="rt"
-          className="myClassname"
-          display="initial"
-          allowFullScreen="fullscreen"
-          position="relative"
-        />
-      </div>
     </span>
   )
 }
