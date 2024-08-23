@@ -1,9 +1,143 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="zeT5vN8LQYE2hTfkCvh8">
-    <mxGraphModel>
+    <mxGraphModel dx="1271" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lQ5QXN3g55IGny1338bA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lQ5QXN3g55IGny1338bA-1" target="lQ5QXN3g55IGny1338bA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-1" value="Representante" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lQ5QXN3g55IGny1338bA-4" target="lQ5QXN3g55IGny1338bA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-4" value="&lt;font style=&quot;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot; face=&quot;Architects Daughter&quot;&gt;&lt;b&gt;Login /autenticacao/colaborador&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="45" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lQ5QXN3g55IGny1338bA-5" target="lQ5QXN3g55IGny1338bA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot; color=&quot;#ff0000&quot; face=&quot;Architects Daughter&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot;&gt;Home&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="140" y="47.5" width="95" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lQ5QXN3g55IGny1338bA-8" target="lQ5QXN3g55IGny1338bA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-8" value="Wellcome&lt;br&gt;/inicio" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="680" y="42.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lQ5QXN3g55IGny1338bA-11" target="lQ5QXN3g55IGny1338bA-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-11" value="Listagem de pedidos&lt;br&gt;/produtos/amostras/meus-pedidos" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;sketch=1;curveFitting=1;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="370" y="185" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="lQ5QXN3g55IGny1338bA-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="335" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lQ5QXN3g55IGny1338bA-15" target="lQ5QXN3g55IGny1338bA-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="370" />
+              <mxPoint x="100" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-15" value="Selecionar médicos&lt;br&gt;/produtos/amostras/selecionar-medico" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;sketch=1;curveFitting=1;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="10" y="310" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lQ5QXN3g55IGny1338bA-17" target="lQ5QXN3g55IGny1338bA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-17" value="Novo pedido" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;sketch=1;curveFitting=1;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lQ5QXN3g55IGny1338bA-21" target="lQ5QXN3g55IGny1338bA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-21" value="Header&lt;br&gt;Meus pedidos" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;sketch=1;curveFitting=1;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="700" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lQ5QXN3g55IGny1338bA-28" target="lQ5QXN3g55IGny1338bA-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-36" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQ5QXN3g55IGny1338bA-35">
+          <mxGeometry x="-0.175" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lQ5QXN3g55IGny1338bA-28" target="lQ5QXN3g55IGny1338bA-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-52" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQ5QXN3g55IGny1338bA-51">
+          <mxGeometry x="0.2545" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-28" value="&lt;b&gt;Médico existe?&amp;nbsp;&amp;nbsp;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;sketch=1;curveFitting=1;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lQ5QXN3g55IGny1338bA-31" target="lQ5QXN3g55IGny1338bA-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="880" />
+              <mxPoint x="80" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-31" value="listagem de produtos&lt;br&gt;/produtos/amostras/novo-pedido" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;sketch=1;curveFitting=1;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="10" y="800" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lQ5QXN3g55IGny1338bA-34" target="lQ5QXN3g55IGny1338bA-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-34" value="&amp;nbsp;EmptyState + limpar filtro&amp;nbsp;" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;sketch=1;curveFitting=1;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="235" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lQ5QXN3g55IGny1338bA-42" target="lQ5QXN3g55IGny1338bA-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-46" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQ5QXN3g55IGny1338bA-45">
+          <mxGeometry x="-0.4737" y="2" relative="1" as="geometry">
+            <mxPoint x="16" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-42" value="Existe produtos disponíveis?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;sketch=1;curveFitting=1;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="20" y="920" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot;&gt;FIM&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="240" y="930" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lQ5QXN3g55IGny1338bA-47" target="lQ5QXN3g55IGny1338bA-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-57" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQ5QXN3g55IGny1338bA-56">
+          <mxGeometry x="0.0333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-47" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot; face=&quot;Architects Daughter&quot;&gt;Médico tem essa funcionalidade?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="640" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.327;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lQ5QXN3g55IGny1338bA-47" target="lQ5QXN3g55IGny1338bA-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-54" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQ5QXN3g55IGny1338bA-53">
+          <mxGeometry x="0.0721" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQ5QXN3g55IGny1338bA-55" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot; face=&quot;Architects Daughter&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;FIM&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="240" y="650" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
